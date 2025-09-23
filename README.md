@@ -18,7 +18,10 @@ Ideal para quem quer relembrar os velhos tempos dos jogos de plataforma ou apren
 -Servidor local (opcional, para evitar restrições de CORS)
 
 1.Clone o repositório:git clone https://github.com/Guilherme432-web/que-mario.git
+
 2.Entre na pasta do projeto:cd que-mario
+
 3.Abra o arquivo index.html no seu navegador:
 -Duplo clique ou use um servidor local como live server
+
 4.Aproveite o jogo!
